@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #111111;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: #007bff;
+    margin: 1rem auto;
+    border-radius: 10px;
+}
