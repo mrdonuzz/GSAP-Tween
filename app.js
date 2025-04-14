@@ -4,6 +4,7 @@ gsap.to(box1, {
   duration: 1,
   x: 300,
   repeat: -1,
+  yoyo: true,
 });
 
 //2
@@ -13,6 +14,7 @@ gsap.from(box2, {
   scale: 0,
   opacity: 0,
   repeat: -1,
+  yoyo: true,
 });
 
 //3
@@ -28,5 +30,6 @@ gsap.fromTo(
     opacity: 1,
     duration: 2,
     repeat: -1,
+    yoyo: true,
   }
 );
