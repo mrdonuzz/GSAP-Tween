@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #f0f0f0;
+    text-align: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: #007bff;
+    margin: 1rem auto;
+    border-radius: 10px;
+}
+
+.box2 {
+    background: #28a745;
+}
+
+.box3 {
+    background: #ffc107;
+}
+
+button {
+    margin-top: 2rem;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
