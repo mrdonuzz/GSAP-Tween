@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 2rem;
+    justify-content: center;
+}
+
+.circle {
+    width: 60px;
+    height: 60px;
+    background: #007bff;
+    border-radius: 50%;
+}
